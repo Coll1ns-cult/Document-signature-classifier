@@ -14,3 +14,6 @@ train: https://drive.google.com/drive/folders/1c8figHqT8axASOHOGg1QxughbdzNtUgn?
 test labels: https://drive.google.com/file/d/1f-gku4Csq4UPEPOSh-RZ3QxGKlXsocFC/view?usp=sharing
 
 train labels: https://drive.google.com/file/d/1gqqIRWUyXL4UvfPCNfng4_Yn7x65flfF/view?usp=sharing
+
+#Youtube link for short usage
+https://youtu.be/coNxrhZkc0E
