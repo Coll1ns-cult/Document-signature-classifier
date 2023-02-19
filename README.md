@@ -1,6 +1,6 @@
 # Document-signature-classifier
 Web interface to register signature with a few examples, and recognizing whether it's yours or not after uploading a document
-#Paper
+# Paper
 This is google drive link for the paper regarding this project: https://drive.google.com/file/d/1Dek7Fxdr18_yYFgEI8eMpnyc8LtFDc4n/view?usp=sharing
 # How to run
 There are two files: application.ipynb and cs492_project.ipynb
